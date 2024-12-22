@@ -1,16 +1,29 @@
-# pasword_management
+# pasword Management APP
+project ini menggunakan flutterversi 3.27.1
+**Cara menjalankan  proyek proyek ini bisa di lakukan di terminal pada vscode dan menjalankan perintah dibawah ini:**
 
-A new Flutter project.
+1. masukkan derektori projek:
 
-## Getting Started
+```bash
+cd pasword_management
+```
 
-This project is a starting point for a Flutter application.
+2. bersihkan proyek:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter clean
+```
+3. Instal dependensi:
+ 
+   ```bash
+   flutter pub get
+   ```
+   
+4.Jalankan aplikasi:
+```bash
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
